@@ -1,5 +1,5 @@
 
-shiny::shinyUI(shiny::fluidPage(
+ui <- shiny::shinyUI(shiny::fluidPage(
 
     # Application title
     shiny::titlePanel("Test PostgreSQL Relations"),

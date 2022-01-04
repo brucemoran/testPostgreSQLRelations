@@ -1,6 +1,6 @@
 # server.R
 
-function(input, output, session) {
+server <- function(input, output, session) {
 
     ##read in CSV data
     data <- shiny::reactiveValues()
