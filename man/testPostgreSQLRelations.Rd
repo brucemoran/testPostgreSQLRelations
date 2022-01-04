@@ -2,10 +2,13 @@
 % Please edit documentation in R/app.R
 \name{testPostgreSQLRelations}
 \alias{testPostgreSQLRelations}
-\title{testPostgreSQLRelations function}
+\title{Run testPostgreSQLRelations}
 \usage{
 testPostgreSQLRelations()
 }
+\value{
+running shiny app
+}
 \description{
-testPostgreSQLRelations function
+Run testPostgreSQLRelations
 }

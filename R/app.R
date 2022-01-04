@@ -1,7 +1,9 @@
 # app.R
 
-#' testPostgreSQLRelations function
-#'
+#' Run testPostgreSQLRelations
+#' @return running shiny app
+#' @rdname testPostgreSQLRelations
+#' @export
 
 testPostgreSQLRelations <- function(){
 
