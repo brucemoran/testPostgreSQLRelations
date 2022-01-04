@@ -8,7 +8,7 @@ Testing use of multiple 'tables' (here CSV files but in reality would be read fr
 
 Install package: `devtools::install_github("brucemoran/testPostgreSQLRelations")`
 
-Launch Shiny app: `testPostgreSQLRelations::run_test()`
+Launch Shiny app: `testPostgreSQLRelations::testPostgreSQLRelations()`
 
 In `Results Data` tab, click `Result Tables` to join patient, result and annotation data.
 
