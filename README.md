@@ -15,5 +15,4 @@ In `Results Data` tab, click `Result Tables` to join patient, result and annotat
 ## **Future Work**
 
 * Create a mock report that is generated on result, annotation data.
-* ?Actually use a Postgres interface, with login etc? (see (shinySetupPostgreSQL)[https://github.com/brucemoran/shinySetupPostgreSQL/] for more
-
+* ?Actually use a Postgres interface, with login etc? (see [shinySetupPostgreSQL](https://github.com/brucemoran/shinySetupPostgreSQL/) for more
