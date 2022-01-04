@@ -1,0 +1,3 @@
+Gene,HGVSc,HGVSp,Indication,Citations,Genome,COSMIC
+BRAF,c.1799T>A,p.V600E,BRAF V600E has multiple drug treatments associated,xyz_2022,GRCh38,COSV56056643
+KRAS,c.35G>A,p.G12D,KRAS G12D has some other drug treatments associated,pqr_2021,GRCh38,COSV55497369
